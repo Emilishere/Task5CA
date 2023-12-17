@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\Task 5 (2)\bin\Debug\net6.0\Task 5 (2).exe
+C:\Users\Acer\Desktop\Task 5 (2)\bin\Debug\net6.0\Task 5 (2).deps.json
+C:\Users\Acer\Desktop\Task 5 (2)\bin\Debug\net6.0\Task 5 (2).runtimeconfig.json
+C:\Users\Acer\Desktop\Task 5 (2)\bin\Debug\net6.0\Task 5 (2).dll
+C:\Users\Acer\Desktop\Task 5 (2)\bin\Debug\net6.0\Task 5 (2).pdb
+C:\Users\Acer\Desktop\Task 5 (2)\obj\Debug\net6.0\Task 5 (2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Task 5 (2)\obj\Debug\net6.0\Task 5 (2).AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Task 5 (2)\obj\Debug\net6.0\Task 5 (2).AssemblyInfo.cs
+C:\Users\Acer\Desktop\Task 5 (2)\obj\Debug\net6.0\Task 5 (2).csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Task 5 (2)\obj\Debug\net6.0\Task 5 (2).dll
+C:\Users\Acer\Desktop\Task 5 (2)\obj\Debug\net6.0\refint\Task 5 (2).dll
+C:\Users\Acer\Desktop\Task 5 (2)\obj\Debug\net6.0\Task 5 (2).pdb
+C:\Users\Acer\Desktop\Task 5 (2)\obj\Debug\net6.0\Task 5 (2).genruntimeconfig.cache
+C:\Users\Acer\Desktop\Task 5 (2)\obj\Debug\net6.0\ref\Task 5 (2).dll
